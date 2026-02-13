@@ -1,2 +1,8 @@
 __pycache__
 db.sqlite3
+# macOS
+.DS_Store
+
+# Environment
+.env
+.env.local
